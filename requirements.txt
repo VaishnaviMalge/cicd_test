@@ -1,0 +1,7 @@
+numpy
+pandas
+sickit-learn
+seaborn
+matplotlib
+
+# in terminal run this as pip install r -requirements.txt
